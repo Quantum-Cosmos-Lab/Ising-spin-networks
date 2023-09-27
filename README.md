@@ -1,6 +1,8 @@
 # Ising-spin-networks
 
-This repository contains materials related to the article *G. Czelusta, J. Mielczarek, **Quantum circuits for the Ising spin networks***.
+[![DOI](https://zenodo.org/badge/596688434.svg)](https://zenodo.org/badge/latestdoi/596688434)
+
+This repository contains materials related to the article *G. Czelusta, J. Mielczarek, **Quantum circuits for the Ising spin networks*** https://arxiv.org/abs/2304.03559.
 
 * **tutorial.ipynb** introduce methods given in article
 * **results.ipynb** contains results of simulations presented in the article
